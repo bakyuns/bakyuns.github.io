@@ -110,7 +110,7 @@ author:
   name             : "Park Hyunsu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "1 Jeongjail-ro Bundang-gu, Seongnam-si Gyeonggi-do"
+  location         : ""
   email            :
   links:
     - label: "Email"
