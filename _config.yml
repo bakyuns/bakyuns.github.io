@@ -110,7 +110,6 @@ author:
   name             : "Park Hyunsu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : ""
   email            :
   links:
     - label: "Email"
