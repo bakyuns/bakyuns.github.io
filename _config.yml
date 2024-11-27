@@ -282,7 +282,9 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "/_posts/Study/attachments/"
+      path: "_posts/Study/attachments"
+    values:
+      image: true
   - scope:
       path: ""
       type: posts
