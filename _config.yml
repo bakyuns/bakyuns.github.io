@@ -280,10 +280,6 @@ compress_html:
 
 # Defaults
 defaults:
-  - scope:
-      path: "_posts/Study/attachments"
-    values:
-      image: true
   # _posts
   - scope:
       path: ""
